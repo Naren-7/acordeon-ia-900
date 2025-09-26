@@ -211,7 +211,7 @@ La IA generativa es una forma de inteligencia artificial en la que se entrena a 
 
 - [Preguntas rápidas para analizar](/docs/preguntas-rapidas.md)
 - [-> Kahoot 1 <-](https://kahoot.it/challenge/009442616?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1757728567638)
-- [--> Kahoot 2 <--]()
+- [--> Kahoot 2 <--](https://kahoot.it/challenge/009568952?challenge-id=17c998c7-d2ca-4aad-8555-25d087dca7da_1758846531524)
 - [---> Kahoot 3 <---]()
 
 ## Recursos adicionales
